@@ -164,4 +164,4 @@ git checkout -- filename
 
 ---
 
-This structured layout makes it easier to navigate through the sections and find the information you need.
+
