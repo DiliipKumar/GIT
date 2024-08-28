@@ -1,4 +1,3 @@
-Here's a more visually appealing version of the document with added formatting and structure:
 
 ---
 
