@@ -1,3 +1,8 @@
+##
+```git remote -v
+   git remote remove origin
+   git remote add origin https://new-repository-url.git
+```
 ## Create a new repository on the command line
 
 ```
