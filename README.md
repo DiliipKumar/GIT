@@ -3,7 +3,7 @@
 
 # **Git Workflow Guide**
 
-## **Table of Contents**
+## **Table of Content**
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
   - [Cloning the Repository](#cloning-the-repository)
