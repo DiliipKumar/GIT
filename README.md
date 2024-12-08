@@ -81,13 +81,8 @@ git remote add origin https://github.com/username/repository.git
 ### **7. Configuring Git to Use the PAT**
 🛠 **Set Up Your Git Configuration:**
 
-**a. Update Remote URL with PAT:**
-For existing repositories, update the remote URL:
-```bash
-git remote set-url origin https://<username>:<PAT>@github.com/username/repository.git
-```
 
-**b. Enable Credential Caching:**
+**a. Enable Credential Caching:**
 To avoid re-entering your PAT frequently:
 ```bash
 git config --global credential.helper cache
@@ -99,6 +94,13 @@ git config --global credential.helper store
 ```
 
 ---
+
+**b. Update Remote URL with PAT:**
+For existing repositories, update the remote URL:
+```bash
+git remote set-url origin https://<username>:<PAT>@github.com/username/repository.git
+```
+
 
 ## **Usage**
 
